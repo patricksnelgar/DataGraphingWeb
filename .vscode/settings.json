@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    
+    "php.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+}
